@@ -1,0 +1,41 @@
+body{
+    background-color: #3b4664;
+    color: white;
+    height: 100vh;
+}
+
+.outer{
+    height: 10vh;
+
+}
+
+.section1{
+    height: 5vh;
+}
+
+input{
+    width: 100vh;
+    background-color: transparent;
+    border-style: none;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+input:focus{
+    outline: none;
+}
+
+.section2{
+    height: 30vh;
+    border-radius: 8px;
+    background-color: #181f32;
+}
+
+.section3{
+    height: 50vh;
+    border-radius: 8px;
+
+    margin-top: 5vh;
+    background-color: #181f32;
+}
